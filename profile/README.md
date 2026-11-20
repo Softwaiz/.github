@@ -32,7 +32,7 @@ We build software around the way people and businesses actually work. We investi
 
 ### Beyond the repositories
 
-Our product work also includes [**Linkits**](https://linkits.xyz), a home for organizing digital discoveries, and **JemahBusiness** platforms for [real estate](https://immo.jemahbusiness.com) and [automobiles](https://auto.jemahbusiness.com).
+Our product work also includes [**Linkits**](https://linkits.xyz), a home for organizing digital discoveries.
 
 We’re also developing [**Kariboo**](https://kariboo.app), connecting property seekers in Benin with real estate agencies and opportunities, and exploring restaurant operations with **AlloResto**, an upcoming product.
 

@@ -28,7 +28,6 @@ We build software around the way people and businesses actually work. We investi
 | [**GentleMail**](https://github.com/Softwaiz/gentlemail) | Multi-domain webmail, an email API, and signed webhooks running on your own Cloudflare account. [Explore GentleMail →](https://gentlemail.dev) |
 | [**Whitewood**](https://github.com/Softwaiz/whitewood) | A publishing platform generator with visual page layouts and rich-text editing, built with RedwoodSDK for Cloudflare Workers. |
 | [**recell**](https://github.com/Softwaiz/recell) | Adapts Vite + Workers build output for deployment on celld, including applications built with RedwoodSDK. |
-| [**Reaction**](https://github.com/Softwaiz/reaction-game) | A multiplayer reaction game exploring synchronized timing with Durable Objects and WebSockets on self-hosted celld. |
 
 ### Beyond the repositories
 
